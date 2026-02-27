@@ -1,34 +1,37 @@
-<h1 align="center">Hi, I'm Shashank 👋</h1>
+<h1 align="center">Shashank Mishra</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=AI%20%7C%20Full%20Stack%20%7C%20Unity%20Dev&fontSize=32&fontColor=6C63FF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=AI%20Systems%20Builder&fontSize=36&fontColor=EAEAEA&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+with+AI+🧠;Designing+Scalable+Web+Apps+⚡;Creating+Immersive+Game+Worlds+🎮;Founder+Mindset+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Product+Builder;Unity+Game+Creator;Designing+Scalable+Digital+Systems" />
 </p>
 
 ---
 
-## 🌸 About Me
+## 🌙 About (Dark Minimal Mode)
 
 ```yaml
 Name: Shashank Mishra
 Role: AI-Focused Full Stack Developer
-Passion: Building intelligent digital systems
-Style: Clean code. Calm design. Scalable thinking.
+Philosophy: Simplicity. Clarity. Scalability.
 ```
 
-I love combining **logic + creativity** to build products that actually matter.
-
-- 🌏 Founder of Bharat Path (AI Travel Companion)
-- 🎮 Developing Astra Quest in Unity
-- 🎬 Growing AI Culturex (AI storytelling platform)
-- ✍️ NPTEL Certified – Effective Writing
+I build intelligent digital products with clean architecture and long-term thinking.
 
 ---
 
-## 🛠️ My Tech Toolkit
+## 🧊 Core Focus
+
+- 🤖 AI Integrations & Automation
+- 🌐 Scalable Full Stack Systems
+- 🎮 Unity Game Development
+- 📈 Digital Product Strategy
+
+---
+
+## 🌈 Tech Stack (Pastel Dev Aesthetic)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,cpp,unity,firebase,mongodb,git,github,vscode,netlify&theme=light" />
@@ -36,16 +39,16 @@ I love combining **logic + creativity** to build products that actually matter.
 
 ---
 
-## 📊 GitHub Snapshot
+## 🤖 GitHub Intelligence
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aceraspir25-ctrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aceraspir25-ctrl&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aceraspir25-ctrl&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aceraspir25-ctrl&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
-## 🌌 Contribution Flow
+## 🧊 Contribution Matrix
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aceraspir25-ctrl&theme=react-dark&hide_border=true" />
@@ -53,35 +56,33 @@ I love combining **logic + creativity** to build products that actually matter.
 
 ---
 
-## 💫 Current Focus
+## 💎 Flagship Builds
 
-- 🤖 AI Integrations & Automation
-- 🌐 Scalable Full-Stack Systems
-- 🎮 Interactive Game Mechanics
-- 📈 Personal Brand + Product Growth
+### 🌏 Bharat Path  
+AI-powered intelligent travel companion.
+
+### 🎮 Astra Quest  
+Immersive Unity game universe.
+
+### 🎬 AI Culturex  
+AI storytelling & animated narratives.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
 <p align="center">
-<a href="https://in.linkedin.com/in/shashank-mishra-b0063125b">
-  <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/@AI.Culturex">
-  <img src="https://img.shields.io/badge/YouTube-FF6B6B?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/_.shashank.mishra">
-  <img src="https://img.shields.io/badge/Instagram-F78FB3?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<a href="https://in.linkedin.com/in/shashank-mishra-b0063125b">LinkedIn</a> •
+<a href="https://www.youtube.com/@AI.Culturex">YouTube</a> •
+<a href="https://www.instagram.com/_.shashank.mishra">Instagram</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aceraspir25-ctrl&style=flat-square&color=6C63FF" />
+  <img src="https://komarev.com/ghpvc/?username=aceraspir25-ctrl&style=flat-square&color=888888" />
 </p>
 
 ---
 
-<h3 align="center">✨ Build with heart. Scale with brain. ✨</h3>
+<h3 align="center">Design Calm. Build Smart. Scale Big.</h3>
