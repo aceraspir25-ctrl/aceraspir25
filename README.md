@@ -34,9 +34,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aceraspir25-ctrl&theme=radical&hide_border=true" alt="Streak" />
 </p>
 
-#### 🐍 Contribution Snake
+#### 🌌 Contribution Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aceraspir25-ctrl/aceraspir25-ctrl/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aceraspir25-ctrl&theme=radical" alt="Contribution Graph" />
 </p>
 
 ---
@@ -51,10 +51,10 @@
 
 ---
 
-### 🔥 Featured AI Influencers 
+### 🔥 Dynamic AI Creations
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp5em5qZ3R3Ynh4Nnd4Nnd4Nnd4Nnd4Nnd4Nnd4Nnd4Nnd4Nnd4JmNoYXJhY3Rlcj1mZW1hbGUmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/L69mDkK3v6oK6X9D7z/giphy.gif" width="350" style="border-radius: 15px; border: 2px solid #F700FF;" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp5em5qZ3R3Ynh4Nnd4Nnd4Nnd4Nnd4Nnd4Nnd4Nnd4Nnd4Nnd4JmNoYXJhY3Rlcj1tYWxlJmVwPXYxX2ludGVybmFs|Z2lmX2J5X2lkJmN0PWc/3o7TKMGpxVfFvT8jO8/giphy.gif" width="350" style="border-radius: 15px; border: 2px solid #36BCF7;" />
+  <img src="https://cdn.pixabay.com/animation/2023/10/24/11/17/11-17-47-814_512.gif" width="350" alt="Bold AI Creation 1" style="border-radius: 15px; border: 2px solid #F700FF;"/>
+  <img src="https://cdn.pixabay.com/animation/2023/10/24/11/17/11-17-47-814_512.gif" width="350" alt="Bold AI Creation 2" style="border-radius: 15px; border: 2px solid #36BCF7;"/>
 </p>
 
 <p align="right">
