@@ -53,8 +53,8 @@
 
 ### 🔥 Featured AI Influencers
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/10/24/11/17/11-17-47-814_512.gif" width="350" alt="Bold AI Influencer 1" style="border-radius: 15px; border: 2px solid #F700FF;"/>
-  <img src="https://cdn.pixabay.com/animation/2023/10/24/11/17/11-17-47-814_512.gif" width="350" alt="Dynamic AI Influencer 2" style="border-radius: 15px; border: 2px solid #36BCF7;"/>
+  <img src="https://cdn.pixabay.com/animation/2023/10/24/11/17/11-17-47-814_512.gif" width="350" alt="Bold AI Influencer Style" style="border-radius: 15px; border: 2px solid #F700FF;"/>
+  <img src="https://cdn.pixabay.com/animation/2023/10/24/11/17/11-17-47-814_512.gif" width="350" alt="Dynamic AI Influencer Style" style="border-radius: 15px; border: 2px solid #36BCF7;"/>
 </p>
 
 <p align="right">
