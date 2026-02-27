@@ -1,51 +1,42 @@
-<h1 align="center">⚡ SHASHANK MISHRA ⚡</h1>
+<h1 align="center">Hi, I'm Shashank 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=CYBERPUNK%20DEVELOPER&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=AI%20%7C%20Full%20Stack%20%7C%20Unity%20Dev&fontSize=32&fontColor=6C63FF&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Architect+⚡;AI+Visionary+🧠;Unity+World+Builder+🎮;Founder+of+Bharat+Path+🌏;Building+Digital+Empires+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+with+AI+🧠;Designing+Scalable+Web+Apps+⚡;Creating+Immersive+Game+Worlds+🎮;Founder+Mindset+🚀" />
 </p>
 
 ---
 
-## 🧠 Digital Identity
+## 🌸 About Me
 
-```diff
-+ Name: Shashank Mishra
-+ Role: AI-Powered Full Stack Developer
-+ Focus: AI | Web | Game Development
-+ Mode: Cyberpunk Creator ⚡
+```yaml
+Name: Shashank Mishra
+Role: AI-Focused Full Stack Developer
+Passion: Building intelligent digital systems
+Style: Clean code. Calm design. Scalable thinking.
 ```
 
----
+I love combining **logic + creativity** to build products that actually matter.
 
-## 💎 Core Projects
-
-### 🌏 Bharat Path  
-AI Smart Travel Companion powered by Gemini API  
-Personalized routes. Intelligent recommendations. Smart Bharat 🇮🇳  
-
-### 🎮 Astra Quest  
-Immersive Unity Game Universe  
-Crafting cinematic fantasy environments.  
-
-### 🎬 AI Culturex  
-AI Storytelling + Animated Content  
-Scaling futuristic digital narratives.  
+- 🌏 Founder of Bharat Path (AI Travel Companion)
+- 🎮 Developing Astra Quest in Unity
+- 🎬 Growing AI Culturex (AI storytelling platform)
+- ✍️ NPTEL Certified – Effective Writing
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ My Tech Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,cpp,unity,python,git,github,vscode,netlify,firebase" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,cpp,unity,firebase,mongodb,git,github,vscode,netlify&theme=light" />
 </p>
 
 ---
 
-## 📊 GitHub Power Stats
+## 📊 GitHub Snapshot
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aceraspir25-ctrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -54,57 +45,43 @@ Scaling futuristic digital narratives.
 
 ---
 
-## 🌌 Neural Activity Graph
+## 🌌 Contribution Flow
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aceraspir25-ctrl&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aceraspir25-ctrl&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 💫 Current Focus
+
+- 🤖 AI Integrations & Automation
+- 🌐 Scalable Full-Stack Systems
+- 🎮 Interactive Game Mechanics
+- 📈 Personal Brand + Product Growth
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
 <a href="https://in.linkedin.com/in/shashank-mishra-b0063125b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.youtube.com/@AI.Culturex">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-FF6B6B?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/_.shashank.mishra">
-  <img src="https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://t.me/Daddy_asdf">
-  <img src="https://img.shields.io/badge/Telegram-00F7FF?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-F78FB3?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
 
 ---
 
-## 🔥 AI Influencer Showcase
-
 <p align="center">
-  <img src="https://i.ibb.co/XfXkY9q/female-ai-influencer.png" width="45%" style="border-radius:20px;border:3px solid #00F7FF;" />
-  <img src="https://i.ibb.co/YyYpZ8n/male-ai-influencer.png" width="45%" style="border-radius:20px;border:3px solid #FF00FF;" />
+  <img src="https://komarev.com/ghpvc/?username=aceraspir25-ctrl&style=flat-square&color=6C63FF" />
 </p>
 
 ---
 
-## 👑 Developer Philosophy
-
-<h3 align="center">
-⚡ Code Like a Hacker <br>
-🧠 Think Like an AI <br>
-🎮 Create Like a Game Designer <br>
-🚀 Scale Like a Startup Founder
-</h3>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aceraspir25-ctrl&color=blueviolet&style=for-the-badge&label=NEURAL+VISITS" />
-</p>
-
----
-
-<h2 align="center">💫 ENTER THE DIGITAL EMPIRE 💫</h2>
+<h3 align="center">✨ Build with heart. Scale with brain. ✨</h3>
